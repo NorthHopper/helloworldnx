@@ -1,2 +1,2 @@
 # helloworldnx
-A simple helloworld program for the Nintendo Switch
+(Not currently functional or released ¯\\__(ツ)_/¯)
